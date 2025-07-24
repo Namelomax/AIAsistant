@@ -1,0 +1,157 @@
+{
+  "company": {
+    "name": "TechInnovations",
+    "foundingYear": 2020,
+    "mission": "Разработка передовых AI-решений для бизнеса",
+    "values": [
+      "Инновации",
+      "Открытость",
+      "Совершенство",
+      "Коллаборация"
+    ],
+    "departments": [
+      {
+        "name": "AI Разработка",
+        "head": "Александра Ветрова",
+        "teamSize": 8
+      },
+      {
+        "name": "Продукт",
+        "head": "Максим Козлов",
+        "teamSize": 3
+      },
+      {
+        "name": "UX/UI",
+        "head": "Ольга Смирнова",
+        "teamSize": 2
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "AI Analyzer",
+      "status": "active",
+      "description": "Платформа для анализа данных с использованием машинного обучения",
+      "techStack": [
+        "Kotlin/Spring Boot",
+        "React",
+        "Python (ML модели)",
+        "PostgreSQL",
+        "Kubernetes"
+      ],
+      "team": {
+        "backend": ["Иван Петров", "Елена Соколова"],
+        "frontend": ["Анна Морозова", "Дмитрий Волков"],
+        "dataScience": ["Алексей Иванов"],
+        "qa": ["Светлана Кузнецова"],
+        "productOwner": "Максим Козлов"
+      },
+      "projectStructure": {
+        "components": [
+          {
+            "name": "/App",
+            "description": "Основной модуль приложения",
+            "tech": "React, TypeScript",
+            "graph": {
+              "roots": [
+                {
+                  "type": "Group",
+                  "children": [
+                    {
+                      "type": "Router",
+                      "parameters": {
+                        "name": "Main",
+                        "pages": {
+                          "routes": ["/Start Page"],
+                          "startPage": "/Start Page"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "/Start Page",
+            "description": "Стартовая страница приложения",
+            "tech": "React Components",
+            "elements": [
+              {
+                "type": "Text",
+                "parameters": {
+                  "textStyle": "Display",
+                  "text": "Hello World!"
+                }
+              }
+            ]
+          }
+        ],
+        "styles": {
+          "textStyles": {
+            "Display": {
+              "fontSize": "40px",
+              "fontFamily": "Roboto-Regular"
+            },
+            "Body Medium": {
+              "fontSize": "16px",
+              "fontFamily": "Roboto-Regular"
+            }
+          },
+          "colors": {
+            "Primary": "#5836F5",
+            "Primary Dark": "#3F22B8",
+            "White": "#FFFFFF"
+          }
+        }
+      },
+      "documentationLinks": {
+        "Swagger": "https://api.ai-analyzer.tech/docs",
+        "GitLab": "https://gitlab.techinnovations.com/ai/ai-analyzer",
+        "Figma": "https://figma.com/ai-analyzer-designs"
+      },
+      "onboardingTasks": [
+        "Настроить доступ к GitLab",
+        "Изучить архитектуру проекта",
+        "Развернуть локальное окружение",
+        "Познакомиться с командой"
+      ]
+    },
+    {
+      "name": "Data Visualizer",
+      "status": "in-development",
+      "description": "Инструмент для визуализации сложных данных"
+    }
+  ],
+  "contacts": {
+    "hr": "hr@techinnovations.com",
+    "itSupport": "support@techinnovations.com",
+    "officeAddress": "г. Москва, ул. Технологическая, 15, офис 42",
+    "emergencyContact": "+7 (495) 123-45-67"
+  },
+  "policies": {
+    "workSchedule": "Гибкий график (10:00-18:00 с core time 12:00-15:00)",
+    "remoteWork": "Гибридный формат (3 дня офис/2 дня удалённо)",
+    "vacationPolicy": "21 рабочий день отпуска + 5 дней персональных дней",
+    "probationPeriod": "3 месяца"
+  },
+  "developmentStandards": {
+    "gitFlow": {
+      "branchNaming": "feature/[JIRA-ID]-short-description",
+      "commitMessage": "[JIRA-ID] Краткое описание изменений",
+      "mergeRequests": "Требуется 2 апрува перед мерджем"
+    },
+    "codeReview": {
+      "timeLimit": "2 рабочих дня",
+      "checklist": [
+        "Соответствие кодстайлу",
+        "Наличие тестов",
+        "Отсутствие закомментированного кода"
+      ]
+    },
+    "testing": {
+      "unitTestCoverage": "Минимум 80%",
+      "e2eTests": "Для всех критических путей"
+    }
+  }
+}

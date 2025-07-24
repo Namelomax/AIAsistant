@@ -1,0 +1,44 @@
+{
+    "sessionId": "session_1752739419170",
+    "prompt": {
+        "messages": [
+            {
+                "type": "ai.koog.prompt.message.Message.User",
+                "content": "ЇаЁўҐв",
+                "metaInfo": {
+                    "timestamp": "2025-07-17T08:03:42.822307900Z"
+                }
+            },
+            {
+                "type": "ai.koog.prompt.message.Message.Assistant",
+                "content": "I apologize, but I am unable to understand or respond to the text you have provided. It appears to contain characters that are not part of the standard Latin alphabet used in English. As an AI language model, I am trained to process and respond to text in English, and I do not have the capability to interpret or generate text in other scripts or languages. If you could rephrase your request in English, I would be happy to assist you.",
+                "metaInfo": {
+                    "timestamp": "2025-07-17T08:03:47.573537Z",
+                    "totalTokensCount": 112,
+                    "inputTokensCount": 17,
+                    "outputTokensCount": 95
+                },
+                "finishReason": "stop"
+            },
+            {
+                "type": "ai.koog.prompt.message.Message.User",
+                "content": "Љ Є б¤Ґ« вм ўлў®¤ ў python",
+                "metaInfo": {
+                    "timestamp": "2025-07-17T08:04:06.700325200Z"
+                }
+            },
+            {
+                "type": "ai.koog.prompt.message.Message.Assistant",
+                "content": "Unfortunately, the text you provided is not in the Latin alphabet used in English, and I am unable to understand or respond to it directly. However, I can try to assist you with a Python-related request if you can rephrase it in English.\n\nIf you have a specific question or task related to Python programming, please feel free to ask it in English, and I will do my best to provide a helpful response.",
+                "metaInfo": {
+                    "timestamp": "2025-07-17T08:04:09.788844200Z",
+                    "totalTokensCount": 231,
+                    "inputTokensCount": 141,
+                    "outputTokensCount": 90
+                },
+                "finishReason": "stop"
+            }
+        ],
+        "id": ""
+    }
+}
