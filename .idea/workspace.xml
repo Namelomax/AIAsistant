@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f114a2b-d6a5-42bf-a412-958807d16b79" name="Changes" comment="First release">
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/AdPlatformController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/AdPlatformController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/AdPlatformService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/AdPlatformService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/bin/Debug/net9.0/AdPlatformService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/bin/Debug/net9.0/AdPlatformService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/bin/Debug/net9.0/AdPlatformService.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/bin/Debug/net9.0/AdPlatformService.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/bin/Debug/net9.0/AdPlatformService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/bin/Debug/net9.0/AdPlatformService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/AdPlatformService.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/AdPlatformService.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/AdPlatformService.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/AdPlatformService.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/AdPlatformService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/AdPlatformService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/AdPlatformService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/AdPlatformService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/AdPlatformService.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/AdPlatformService.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/ref/AdPlatformService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/ref/AdPlatformService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/refint/AdPlatformService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../NetTest/AdPlatformService/obj/Debug/net9.0/refint/AdPlatformService.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Лабы/Менеджмент/Лекция 1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лабы/Менеджмент/Лекция 1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Лабы/Программирование/Лаб1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Лабы/Программирование/Лаб1" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AIAsistant" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AIAsistant" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AIAsistant" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="shadow" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2zcTaGp0ALrVZgeYGIiqEUTjBOO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.AIAsistant [shadowJar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build AIAsistant.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Jacob/Kotlin Projects/AIAsistant/build/libs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Jacob\Kotlin Projects\AIAsistant\build\libs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AIAsistant [shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AIAsistant [shadowJar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f114a2b-d6a5-42bf-a412-958807d16b79" name="Changes" comment="" />
+      <created>1752029425064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752029425064</updated>
+      <workItem from="1752029426409" duration="29000" />
+      <workItem from="1752031475186" duration="1332000" />
+      <workItem from="1752032880579" duration="5127000" />
+      <workItem from="1752197278801" duration="11764000" />
+      <workItem from="1752218032764" duration="8249000" />
+      <workItem from="1752496543360" duration="3952000" />
+      <workItem from="1752550812838" duration="5927000" />
+      <workItem from="1752577583585" duration="1658000" />
+      <workItem from="1752579899269" duration="2331000" />
+      <workItem from="1752628339600" duration="2658000" />
+      <workItem from="1752631850870" duration="3919000" />
+      <workItem from="1752677931505" duration="331000" />
+      <workItem from="1752735647721" duration="805000" />
+      <workItem from="1752737612006" duration="4265000" />
+      <workItem from="1753264942728" duration="9332000" />
+      <workItem from="1753326895597" duration="10511000" />
+    </task>
+    <task id="LOCAL-00001" summary="First release">
+      <option name="closed" value="true" />
+      <created>1753345384057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753345384058</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First release" />
+    <option name="LAST_COMMIT_MESSAGE" value="First release" />
+  </component>
+</project>
